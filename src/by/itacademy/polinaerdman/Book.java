@@ -1,4 +1,4 @@
-package by.itacademy.polnaerdman;
+package by.itacademy.polinaerdman;
 
 public class Book {
     private String id;

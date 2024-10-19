@@ -1,4 +1,4 @@
-package by.itacademy.polnaerdman;
+package by.itacademy.polinaerdman;
 
 import java.util.HashMap;
 import java.util.Map;
