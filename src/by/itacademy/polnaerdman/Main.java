@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         ArrayList<Book> list = new ArrayList<>();
         list.add(new Book("1", "War and Peace. Volume 1", "Lev Tolstoy", "Eksmo", 2020, "448", "468 RUB", "Hard"));
-        list.add(new Book("2", "1984", "George Orwell", "Eksmo", 2022, "384", "1508 RUB", "Hard"));
+        list.add(new Book("2", "1984", "George Orwell", "NewEksmo", 2022, "384", "1508 RUB", "Hard"));
         printBooksByAurthor(list, "George Orwell");
         printBooksByPublisher(list, "Eksmo");
         printBooksAfterYear(list, 2021);
